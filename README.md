@@ -2,10 +2,10 @@ A Deep Leaning CNN model for Age Detection built using:<br>
 OpenCV, Pywavelets, Pytorch and FastApi with DataSet From:<br>
 https://www.kaggle.com/datasets/lngcthun/utkface-convert-csv
 
-<b>OpenCV Demonstration:</b>
+<b>OpenCV Demonstration:</b> <br>
 ![Screenshot 2024-04-25 231419](https://github.com/userDoffy/Age-Detection---Pytorch-CNN-OpenCV/assets/122683480/76c131b5-1785-4405-aaf5-1d42c7a9ecf0)
 
-<b>Pywavelet Transformation:</b>
+<b>Pywavelet Transformation:</b> <br>
 ![Screenshot 2024-04-25 231316](https://github.com/userDoffy/Age-Detection---Pytorch-CNN-OpenCV/assets/122683480/806bae8c-00e0-4d49-a2f7-15895f33d206)
 
 <b>Some Examples:</b>
