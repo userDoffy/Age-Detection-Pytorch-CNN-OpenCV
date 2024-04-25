@@ -1,0 +1,47 @@
+.dropbox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 75vh;
+}
+#drop-area{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px dotted rgb(78, 77, 77);
+    border-radius: 10px;
+    padding: 30px;
+    width: 550px;
+    height: 500px;
+    
+}
+
+#img-view{
+    height: 256px;
+    width: 256px;  
+    background-size:contain; 
+}
+#output{
+    font-weight: bold;
+    color: rgb(215, 250, 219);
+    margin-top: 10px;
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    text-align: left;
+    color: rgb(0, 255, 183);
+}
+.listDown{
+    display: flex;
+    align-items:center;
+    justify-content:space-evenly;
+    flex-direction: row;
+
+}
